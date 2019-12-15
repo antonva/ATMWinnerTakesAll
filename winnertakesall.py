@@ -64,5 +64,6 @@ def main():
         json.dump(contestants, f)
         f.close()
 
+
 if __name__ == "__main__":
     main()
